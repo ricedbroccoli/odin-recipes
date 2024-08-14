@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(8, 4, 26);
+}
+
+a:link {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.recipes {
+    color: black;
+    text-align: center;
+}
+
+#title{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+.subtitle {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center
+}
+
+.ingredients {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center
+}
+
+.instructions {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center
+}
